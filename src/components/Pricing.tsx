@@ -1,7 +1,7 @@
 const plans = [
   { name: 'Sprout', price: 19, description: 'One small plant every month.', featured: false },
   { name: 'Bloom', price: 39, description: 'Two medium plants and a pot every month.', featured: true },
-  { name: 'Jungle', price: 59, description: 'Three statement plants and priority care chat.', featured: false },
+  { name: 'Jungle', price: 70, description: 'Three statement plants and priority care chat.', featured: false },
 ]
 
 export function Pricing() {
